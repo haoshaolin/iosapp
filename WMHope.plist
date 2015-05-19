@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://update.wmhope.com/ios/wmh.ipa</string>
+					<string>https://github.com/haoshaolin/iosapp/blob/master/wmh.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
